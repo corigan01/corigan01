@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corigan01" alt="corigan01" /></a> </p>
 
-- 🔭 I’m currently working on [CrossSockets](https://github.com/corigan01/CrossSockets)
+- 🔭 I’m currently working on [FluxedOS](https://github.com/corigan01/FluxedOS)
 
 - 🌱 I’m currently learning **Web Containers / Hosting**
 
