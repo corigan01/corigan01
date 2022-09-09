@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MainMenu</h1>
-<h3 align="center">A Backend C++ / C Programmer</h3>
+<h3 align="center">A Rust / C++ / C Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corigan01&label=Profile%20views&color=0e75b6&style=flat" alt="corigan01" /> </p>
 
