@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corigan01&theme=onedark&column=-1" alt="corigan01" /></a> </p>
 
-- 🔭 I’m currently working on [FluxedOS](https://github.com/corigan01/FluxedOS)
+- 🔭 I’m currently working on [QuantumOS](https://github.com/corigan01/QuantumOS)
 
-- 🌱 I’m currently learning **Web Containers / Hosting**
+- 🌱 I’m currently learning **Your mom's location**
 
 - 👨‍💻 All of my projects are available at [https://github.com/corigan01](https://github.com/corigan01)
 
 - 📫 How to reach me **corigan01@gmail.com**
 
-- ⚡ Fun fact **I use linux for all my work**
+- ⚡ Fun fact **Rust can be compiled to 16-bit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
