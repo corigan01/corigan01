@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=corigan01&label=Profile%20views&color=0e75b6&style=flat" alt="corigan01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corigan01&theme=onedark" alt="corigan01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corigan01&theme=onedark&column=-1" alt="corigan01" /></a> </p>
 
 - 🔭 I’m currently working on [FluxedOS](https://github.com/corigan01/FluxedOS)
 
