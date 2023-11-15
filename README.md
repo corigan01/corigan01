@@ -27,4 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corigan01&" alt="corigan01" /></p>
 
-![my body is a machine](https://github.com/corigan01/corigan01/assets/33582457/4ddbc830-69ca-4377-b968-dca47a14e086)
+![macarena](https://github.com/corigan01/corigan01/assets/33582457/e4d76e9b-92fe-4740-a9c1-752a0be599d2)
+
+<!--- ![my body is a machine](https://github.com/corigan01/corigan01/assets/33582457/4ddbc830-69ca-4377-b968-dca47a14e086) --->
