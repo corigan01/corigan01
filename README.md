@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corigan01&theme=onedark&column=-1" alt="corigan01" /></a> </p>
 
-- 🔭 I’m currently working on [QuantumOS](https://github.com/corigan01/QuantumOS)
+- 🔭 I’m currently working on [AloeVera OS](https://github.com/corigan01/AloeVera)
 
 - 🌱 I’m currently learning **Your mom's location**
 
