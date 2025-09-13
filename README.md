@@ -31,9 +31,8 @@
 ![macarena](https://github.com/corigan01/corigan01/assets/33582457/e4d76e9b-92fe-4740-a9c1-752a0be599d2)
 
 
-# MOVED TO GITEA/Codeberg
-- **Gitea**: [https://git.inflames.cc](https://git.inflames.cc)
-- **CodeBerg**: [https://codeberg.org/corigan01](https://codeberg.org/corigan01)
+# MOVED TO Forgejo
+- **Forgejo**: [https://git.inflames.cc](https://git.inflames.cc)
 
 
 <!--- ![my body is a machine](https://github.com/corigan01/corigan01/assets/33582457/4ddbc830-69ca-4377-b968-dca47a14e086) --->
